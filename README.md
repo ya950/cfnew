@@ -2,7 +2,6 @@
 <img width="1312" height="750" alt="image" src="https://github.com/user-attachments/assets/17ab8bc8-9bc3-44d8-8f44-bc5906ed7347" />
 想加群的自己点击添加吧 tg交流群 https://t.me/+ft-zI76oovgwNmRh 
 
-<img width="425" height="406" alt="image" src="https://github.com/user-attachments/assets/cc183bbd-b455-404b-8c79-66fcb1990bdc" />
 
 
 
@@ -13,6 +12,8 @@
 |  **生成节点** | 一键生成所有优选 IP/域名的 VLESS 链接 | [https://cfy.jhb.ovh/](https://cfy.jhb.ovh/) |
 |  **文字教程** | 详细的部署与使用说明博客文章 | [https://joeyblog.net/yuanchuang/1146.html](https://joeyblog.net/yuanchuang/1146.html) |
 |  **视频教程** | 直观的操作演示和功能讲解 | https://youtu.be/AA2sSVt9x5s |
+<img width="1278" height="592" alt="image" src="https://github.com/user-attachments/assets/f741fa5e-1708-41b9-a10c-0f3cdd56bade" />
+
 
 ###  部署
 
